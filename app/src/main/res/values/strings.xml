@@ -2,4 +2,9 @@
     <string name="app_name">My Application4</string>
     <string name="open">Open</string>
     <string name="close">Close</string>
+    <string name="take_photo">take photo</string>
+    <string name="gallery">from gallery</string>
+    <string name="home_delivery">Home Delivery</string>
+    <string name="address_hint">Enter location</string>
+    <string name="sendorder">send order</string>
 </resources>
